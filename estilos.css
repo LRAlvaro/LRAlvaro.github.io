@@ -15,3 +15,25 @@ body {
     border: 1px solid black
 
 }
+
+header {
+    background-color: rgb(14, 144, 167);
+    height: 108px;
+    width: 1200px;
+    border-bottom: 2px dashed;
+
+}
+
+#logo {
+    float: left;
+    border: 1px solid black;
+}
+
+h1 {
+    height: 100px;
+    color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 100px;
+    
+}

@@ -68,3 +68,28 @@ nav ul li a {
     clear:both;
 
 }
+
+#content {
+    float: left;
+    width: calc(80% - 80px);
+    min-height: 600px;
+    background: rgba(58, 0, 112, 0.568);
+    padding: 30px
+}
+
+.article{
+    margin-top: 12px;
+    margin-bottom: 0px;
+    border-bottom: 1px solid rgb(26, 90, 116);
+    padding-bottom: 12px; 
+    
+}
+
+.article h2 {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.article ul li {
+    margin-left: 15px;
+}

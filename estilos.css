@@ -72,16 +72,16 @@ nav ul li a {
 #content {
     float: left;
     width: calc(80% - 80px);
-    min-height: 625px;
-    background: rgba(0, 35, 112, 0.568);
+    min-height: 630px;
+    background: rgba(0, 80, 112, 0.568);
     padding: 30px
 }
 
 .article{
-    margin-top: 13px;
-    margin-bottom: 0px;
+    margin-top: 11px;
+    margin-bottom: 2px;
     border-bottom: 1px solid rgb(103, 116, 26);
-    padding-bottom: 13px; 
+    padding-bottom: 11px; 
     
 }
 

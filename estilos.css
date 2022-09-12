@@ -63,3 +63,8 @@ nav ul li a {
     text-decoration: dashed;
     
 }
+
+.clearfix{
+    clear:both;
+
+}
